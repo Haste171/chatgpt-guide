@@ -1,3 +1,5 @@
+To use ChatGPT effectively you must first learn how to prompt engineer...
+
 ## Before you read this you might ask 'why would learning how to prompt engineer be beneficial to me'?
 
 *Overall, prompt engineering plays a crucial role in the development and maintenance of text-based AI systems, as it helps to ensure that the prompts used by the system are effective at eliciting meaningful and accurate responses.*
